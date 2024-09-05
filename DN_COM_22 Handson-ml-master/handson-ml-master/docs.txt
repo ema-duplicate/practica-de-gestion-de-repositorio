@@ -1,1 +1,5 @@
-DOCUMENTACION DE PROYECTO
+Inicio de plantilla para documentacion
+
+Agregar documentacion ...
+
+Fin de plantilla
